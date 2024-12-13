@@ -111,9 +111,6 @@ I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I a
 
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=chediamdouni&theme=react)
-
-
 
 ### ✍️ Random Dev Quote
 
