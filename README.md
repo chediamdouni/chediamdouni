@@ -1,192 +1,87 @@
-<h1 align="center"><b>Hey , I'm Amdouni Chedi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hi, I'm <b>Amdouni Chedi</b>!</h1>
 
 <p align="center">
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+ChediAmdouni..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
-
+  <a href="https://github.com/chediamdouni">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00A6FF&center=true&vCenter=true&width=600&lines=Professional+Software+Engineer;SaaS+Builder+for+Startups;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Passionate+about+Clean+Code+%26+Architecture;Let's+build+something+great+together!" />
+  </a>
 </p>
 
+---
 
+## 🚀 **About Me**
 
-<!--
+I'm a **25-year-old Software Engineer** based in Tunisia 💻. My passion lies in building **SaaS applications** for startups, helping them bring their ideas to life with clean, scalable, and maintainable code.
+
+I specialize in **Full-Stack Development** using modern technologies and frameworks.
+
+### 🛠️ My Tech Stack:
+- **Frontend**: Next.js, React.js, TypeScript
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL
+- **Tools**: Docker, Git, GitHub Actions, RESTful APIs
+- **Cloud & SaaS**: AWS, CI/CD Pipelines
+
+---
+
+## 🧩 **Skills**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+ChediAmdouni!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/ChediAmdouni) 
+---
 
-  </p> -->
+## 📊 **GitHub Stats**
 
-  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chediamdouni&show_icons=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chediamdouni&layout=compact&theme=algolia" />
+</p>
 
-<!--  Ceci mon Avatar-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chediamdouni&theme=react-dark" alt="activity graph" />
+</p>
 
+---
 
+## 🏆 **Trophies**
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chediamdouni&theme=onestar&no-frame=true&column=7" />
+</p>
 
+---
 
-<!--  About me -->
+## 💡 **Random Dev Quote**
 
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+</p>
 
-**About me**
+---
 
+## 🤝 **Let's Connect**
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/amdouni-chedi-220b07206/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chedi.amdouni.nb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chediamdouni" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I am completely passionate about Building new Saas Application .
+---
 
+### 🚀 **"Let's build the next big thing together!"**
 
-
-<!-- Let's Connect..! -->
-
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-ChediAmdouni-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amdouni-chedi-220b07206/) 
-
-[![Mail Badge](https://img.shields.io/badge/-@ChediAmdouni-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chediamdouni/)
-
-[![Mail Badge](https://img.shields.io/badge/-ChediAmdouni-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chedi.amdouni.nb@gmail.com)
-
-
-
-
-<img src="https://img.shields.io/badge/Age-24-blue" />
-
-
-
-<!-- Ligne  -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<!-- TODO: Add last video link 
-
-
-
-- 🔭 I’m currently working at @Home
-
-- 🤔 Im currently trying to set up SaaS solutions for companies. 
-
-- 📫 How to reach me: amdouni.chedi.nb@gmail.com.
-
-
--->
-
-
-
-
-
-<!-- Skills  -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<br>
-
-
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-
-
-<!-- Github Stats   -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chediamdouni&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=chediamdouni&theme=react)
-
-
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-Credit: [Chedi Amdouni](https://github.com/chediamdouni) 
-
-
-<details> 
-
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-
-  <div>
-
-  <samp>
-
-      <br/>
-
-            <p align="center">
-
-      </p>
-
-        <p align="center">
-
-          <a href="https://github.com/chediamdouni/">
-
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chediamdouni&theme=gruvbox&layout=compact&hide_border=true"
-
-          alt="1999AZZAR :: Top Langs by repo" />
-
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chediamdouni&theme=gruvbox&layout=compact&hide_border=true"
-
-          alt="1999AZZAR :: Top Langs by commit" />
-
-          </a>
-
-        </p>
-
-    <br>
-
-
-
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chediamdouni&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-
-
-
-<br>
-
-</details>
-
-
-
-
-
-
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+---
