@@ -105,9 +105,7 @@ I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I a
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chediamdouni&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 
 
-## [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chedi)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=chediamdouni&theme=react)
 
 
 
