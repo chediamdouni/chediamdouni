@@ -10,9 +10,9 @@
 
 ## 🚀 **About Me**
 
-I'm a **25-year-old Software Engineer** based in Tunisia 💻. My passion lies in building **SaaS applications** for startups, helping them bring their ideas to life with clean, scalable, and maintainable code.
+I'm a **25-year-old Software Engineer** based in Tunisia 💻. I’m passionate about learning how to build **SaaS applications** 🚀, with the goal of helping startups bring their ideas to life through clean, scalable, and maintainable code.
 
-I specialize in **Full-Stack Development** using modern technologies and frameworks.
+Currently, I’m honing my skills in Full-Stack Development and exploring modern technologies and frameworks to turn this passion into reality! 🌱
 
 ### 🛠️ My Tech Stack:
 - **Frontend**: Next.js, React.js, TypeScript
