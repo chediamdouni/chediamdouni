@@ -52,15 +52,6 @@ I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I a
 
 
 
-<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-
-
-
-[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=ChediAmdouni.ChediAmdouni)-->
-
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=chediamdouni)
 
 <img src="https://img.shields.io/badge/Age-24-blue" />
 
