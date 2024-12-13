@@ -12,7 +12,7 @@
 
 <p align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/AzizBenIsmail) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+ChediAmdouni!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/ChediAmdouni) 
 
   </p> -->
 
@@ -20,7 +20,7 @@
 
 <!--  Ceci mon Avatar-->
 
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+
 
 
 
@@ -44,11 +44,11 @@ I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I a
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amdouni-chedi-220b07206/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ChediAmdouni-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amdouni-chedi-220b07206/) 
 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chediamdouni/)
+[![Mail Badge](https://img.shields.io/badge/-@ChediAmdouni-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chediamdouni/)
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chedi.amdouni.nb@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-ChediAmdouni-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chedi.amdouni.nb@gmail.com)
 
 
 
@@ -58,7 +58,7 @@ I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I a
 
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=ChediAmdouni.ChediAmdouni)-->
 
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=chediamdouni)
 
