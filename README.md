@@ -32,9 +32,7 @@
 
 
 
-I'm Mohamed Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 25 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-
-I am completely passionate about frontend backend development .
+I'm Mohamed Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I am completely passionate about Building new Saas Application .
 
 
 
