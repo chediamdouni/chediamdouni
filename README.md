@@ -40,7 +40,7 @@ Currently, I’m honing my skills in Full-Stack Development and exploring modern
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chediamdouni&show_icons=true&theme=algolia" />
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chediamdouni&layout=compact&theme=algolia" />
 </p>
 
