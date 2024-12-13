@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/chediamdouni">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00A6FF&center=true&vCenter=true&width=600&lines=Professional+Software+Engineer;SaaS+Builder+for+Startups;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Passionate+about+Clean+Code+%26+Architecture;Let's+build+something+great+together!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00A6FF&center=true&vCenter=true&width=600&lines=Professional+Software+Engineer;SaaS+Builder+for+Startups;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;PPassionate+about+Clean+Code+%26+Architecture;Let's+build+something+great+together!" />
   </a>
 </p>
 
