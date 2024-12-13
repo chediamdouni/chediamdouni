@@ -32,7 +32,7 @@
 
 
 
-I'm Mohamed Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I am completely passionate about Building new Saas Application .
+I'm Amdouni Chedi a software engineer in Tunisia 💻 , I'm 25 years old and I am completely passionate about Building new Saas Application .
 
 
 
